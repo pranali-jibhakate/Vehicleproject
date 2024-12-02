@@ -1,0 +1,34 @@
+{
+  "vehicles": [
+    {
+      "image": "https://cdn.pixabay.com/photo/2023/02/07/17/49/supercar-7774683_640.jpg",
+      "name": "Green Car",
+      "description": "Very good car for driving",
+      "id": "72ad"
+    },
+    {
+      "image": "https://t4.ftcdn.net/jpg/05/37/32/57/360_F_537325726_GtgjRiyc37BLPn9OmisBVVZec9frLaL0.jpg",
+      "name": "Brown Car",
+      "description": "Dashing car",
+      "id": "3baa"
+    },
+    {
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/139651/curvv-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+      "name": "Gray Car",
+      "description": "Good Speed",
+      "id": "77df"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSECBgXcwqO_qW-4DcffZh9QtcxOFsFUNwQ&s",
+      "name": "Orange Color Car2",
+      "description": "Fabulous Color",
+      "id": "b718"
+    },
+    {
+      "id": "7d6b",
+      "image": "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Black Car",
+      "description": "Looking Fabulous"
+    }
+  ]
+}
